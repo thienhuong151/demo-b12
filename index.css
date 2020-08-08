@@ -1,0 +1,48 @@
+* {
+  background-color: rgb(187, 187, 189);
+  font-family: 'Dosis', Arial, sans-serif;
+  font-size: 1.5 rem;
+}
+
+#tieude {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0px 20px 0px;
+}
+
+#search_bar {
+  width: 300px;
+  margin-right: 20px;
+  border-radius: 4px;
+  border-width: 5px;
+}
+
+#btn_search {
+  background-color: rgb(69, 56, 139);
+  color: #ffffff;
+  padding: 4px 8px 4px 8px;
+  border-radius: 4px;
+}
+
+#content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#character {
+  width: 20%;
+}
+
+#character img {
+  width: 100%;
+}
+
+
+#characters {
+  width: 20%;
+}
+
+#character img {
+  width: 100%;
+}
+
